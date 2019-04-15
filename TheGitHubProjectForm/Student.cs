@@ -22,6 +22,7 @@ namespace TheGitHubProjectForm
         public string informaticsMark;
         public string scholarship;
         public int Age;
+        //string ok;
 
 
 
